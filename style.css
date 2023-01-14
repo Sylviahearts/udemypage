@@ -1,0 +1,437 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: 99.6%;
+    height: 70px;
+    display:flex;
+    margin-bottom: 2px;
+}
+.navimgdiv{
+    width: 10%;
+    height: 90%;
+}
+.navimg{
+    width: 100%;
+    height: 100%;
+}
+.navinp{
+    border: 1px solid black;
+    width: 410px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left:35px ;
+    margin-top: 12px;
+    padding-left:30px ;
+}
+.nb1{
+    border: 1px solid black;
+    width: 80px;
+    height: 40px;
+    background-color: white;
+    margin-left:20px ;
+    margin-top: 15px;
+}
+.nb2{
+    border: 2px solid black;
+    width: 80px;
+    height: 40px;
+    background-color: black;
+    margin-left:8px ;
+    margin-top: 15px;
+    color: white;
+}
+.nb3{
+    border: 1px solid black;
+    width: 50px;
+    height: 40px;
+    background-color: white;
+    margin-left:8px ;
+    margin-top: 15px;
+}
+.nb4{
+    width: 30px;
+    height: 25px;
+    background-color: white;
+    margin-left:18px ;
+    margin-top: 25px;
+}
+.nb4img{
+    width: 100%;
+    height: 100%;
+}
+.nb3img{
+    width: 70%;
+    height: 60%;  
+}
+.bgdiv{
+    border: 2px solid white;
+    width: 99.7%;
+    height: 400px;
+    background-image: url(bgimg.jpg);
+}
+.sale{
+    background-color: white;
+    width: 35.5%;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 90px;
+}
+.broad{
+    border: 2px solid white;
+    width: 99.6%;
+    height: 130px;
+    padding-bottom: 40px;
+}
+.abb{
+    display: flex;
+    /* border: 2px solid green; */
+    width: 100%;
+    height: 30px;
+}
+.abroad{
+   padding-right:25px;
+   padding-left: 20px; 
+   text-decoration: none; 
+   color: black;
+}
+
+
+
+
+.expand{
+    border: 1px solid black;
+    width: 96.5%;
+    height: 600px;
+    margin-left: 20px;
+}
+.expcon{
+    width: 70%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.expbtn{
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px;
+    color: black;
+    margin-left: 20px;
+    width: 125px;
+    height: 35px;
+}
+.list1{
+    width: 100%;
+    height:350px;
+    justify-content: space-between;
+    display: flex;
+    padding-left:20px;
+}
+.l11{
+    width: 18%;
+    height: 350px;
+}
+
+.l12{
+    width: 18%;
+    height: 350px;
+}
+
+.l13{
+    width: 18%;
+    height: 350px;
+}
+
+.l14{
+    width: 18%;
+    height: 350px;
+}
+
+.l15{
+    width: 18%;
+    height: 350px;
+}
+.linediv{
+    width: 100%;
+    height: 90px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.students{
+    width: 96.5%;
+    height: 400px;
+    margin-left: 20px;
+}
+.list2{
+    width: 100%;
+    height:350px;
+    justify-content: space-between;
+    display: flex;
+    padding-left:20px;
+}
+.l21{
+    width: 18%;
+    height: 350px;
+}
+
+.l22{
+    width: 18%;
+    height: 350px;
+}
+
+.l23{
+    width: 18%;
+    height: 350px;
+}
+
+.l24{
+    width: 18%;
+    height: 350px;
+}
+
+.l25{
+    width: 18%;
+    height: 350px;
+}
+
+.majordiv{
+    width: 97.9%;
+    height: 700px;
+    margin-left: 20px;
+}
+.major1{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.m1{
+    width: 24%;
+    height: 99%;
+}
+.m2{
+    width: 24%;
+    height: 99%;
+}
+.m3{
+    width: 24%;
+    height: 99%;
+}
+.m4{
+    width: 24%;
+    height: 99%;
+}
+.major2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-between; 
+}
+.m5{
+    width: 24%;
+    height: 99%;
+}
+.m6{
+    width: 24%;
+    height: 99%;
+}
+.m7{
+    width: 24%;
+    height: 99%;
+}
+.m8{
+    width: 24%;
+    height: 99%;
+}
+.feat{
+    background-color: rgb(230, 232, 234);
+    width: 98.2%;
+    height: 360px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.feat1{
+    height: 100%;
+    width: 20%;
+}
+.feat2{
+    height: 100%;
+    width: 20%;
+}
+.feat3{
+    height: 100%;
+    width: 20%;
+}
+.feat4{
+    height: 100%;
+    width: 20%;
+}
+.exbtn{
+    border: 1px solid black;
+    height: 40px;
+    width: 150px;
+}
+
+.trust{
+    width: 100%;
+    height: 160px;
+    margin-bottom: 80px;
+    margin-top: 100px;
+}
+.maint{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.t1div{
+    width: 16%;
+    height: 100%;
+}
+.t2div{
+    width: 16%;
+    height: 100%;
+}
+.t3div{
+    width: 16%;
+    height: 100%;
+}
+.t4div{
+    width: 16%;
+    height: 100%;
+}
+.t5div{
+    width: 16%;
+    height: 100%;
+}
+.t6div{
+    width: 16%;
+    height: 100%;
+}
+.ups{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    margin-bottom: 80px;
+}
+.ups1{
+    width: 30%;
+    height: 400px;
+    margin-left: 200px;
+}
+.ups2{
+    width: 30%;
+    height: 400px;
+    margin-left: 100px;
+ 
+}
+.insimg{
+    width: 100%;
+    height: 98%;
+}
+.btns{
+    width: 100%;
+    height: 50px;
+    margin-left: 25px;
+}
+.btns1{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    width: 165px;
+    height: 45px;
+}
+.btns2{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    width: 110px;
+    height: 45px;
+    margin-left: 5px;
+}
+.ins{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.ins1{
+    width: 30%;
+    height: 400px;
+    margin-left: 200px;
+}
+.ins2{
+    width: 30%;
+    height: 75%;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.insimg{
+    width: 100%;
+    height : 98%;
+}
+.insbtn{
+    width: 165px;
+    height: 45px;
+    color: white;
+    background-color: black;
+    border: 2px solid black;
+    font-weight: 200px;
+    font-size: medium;
+}
+footer{
+    background-color: #242323;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    margin-top: 100px;
+}
+.f1{
+    width: 20%;
+    height: 100%;
+    
+}
+.f2{
+    width: 20%;
+    height:  100%;
+    padding-left: 50px;
+}
+.f3{
+    width: 20%;
+    height:  100%;
+    padding-left: 50px;
+}
+.f4{
+    width: 19%;
+    height:  100%;
+}
+.f5{
+    width: 20%;
+    height:  100%;
+    padding-left: 50px;
+}
+.f5btn{
+    border: 2px solid white;
+    color: white;
+    padding: 15x;
+    width: 95px;
+    height: 30px;
+}
+.a{
+    color: white;
+    text-decoration: none;
+    padding-left: 50px;
+}
+.imgdiv{
+    margin-top: 120px;
+    width: 60%;
+    height: 70px;
+    margin-left: 10px;
+}
+.f1img{
+    width: 100%;
+    height: 100%;
+}
